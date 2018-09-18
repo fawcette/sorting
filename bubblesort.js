@@ -6,4 +6,4 @@ function swap() {
 
 }
 
-console.log(Window.swap);
+console.log(Window.swap);localStorage
